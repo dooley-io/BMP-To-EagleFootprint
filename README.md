@@ -16,8 +16,8 @@ Technical Specifications:
 •	Output: Eagle library files (.lbr) compatible with Eagle version 9.6.2.
 •	Programming Language: Python 3.12.
 •	Dependencies:
-o	tkinter for the GUI.
-o	Pillow for image processing.
+	tkinter for the GUI.
+	Pillow for image processing.
 
 Installation
 Prerequisites:
